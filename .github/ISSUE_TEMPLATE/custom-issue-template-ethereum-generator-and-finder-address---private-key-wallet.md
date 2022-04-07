@@ -3,7 +3,7 @@ name: Custom issue template ethereum generator and finder address + private key 
 about: Describe this issue template's purpose hCustom issue template ethereum generator
   and finder address + private key walletere.
 title: Custom issue template ethereum generator and finder address + private key wallet
-labels: documentation, python
+labels: documentation
 assignees: ''
 
 ---
