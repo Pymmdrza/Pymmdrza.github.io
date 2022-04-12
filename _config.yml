@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+title: <p align="centre"> Pranjal Jha </p>
+logo: /assets/img/new.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
