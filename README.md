@@ -6,19 +6,28 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 ## Python Source
 
+---
+
+
+### [Rich Wallet Private Key Finder Version 2](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder2 'Private Key Finder Ethereum')
+
+Ethereum Rich Wallet Private Key Finder New Version 2 , High Speed Finder Cracking
+
+
+---
+
 ### [Solo Miner Bitcoin](https://github.com/Pymmdrza/SoloMiner)
 
 SoloMiner Bitcoin Mining With Python
-
 
 ---
 
 ### [Bitcoin Wallet Checker HD](https://github.com/Pymmdrza/BTC_HD_Wallet_Checker)
 
-Bitcoin wallet creat and check private key and address , with total transaction (use HDWallet)
+
+#### Bitcoin wallet creat and check private key and address , with total transaction (use HDWallet)
 
 ---
-
 
 
 ### [mHexer (mHash)](https://github.com/Pymmdrza/mHexer)
