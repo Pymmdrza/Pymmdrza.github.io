@@ -6,6 +6,24 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 ## Python Source
 
+
+
+### [xBrain Wallet Crack](https://github.com/Pymmdrza/xBrainWallet 'Brain Wallet passphares and private key crack woth python hack')
+
+Brain Wallet passphares and private key crack woth python hack
+
+---
+
+### [Ethereum Mnemonic Hack](https://github.com/Pymmdrza/EthereumMnemonicCrack 'Ethereum Mnemonic Hack')
+
+Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API
+
+---
+
+### [SoloMiner V2](https://github.com/Pymmdrza/SoloMinerV2 'Mining Bitcoin Script Solo')
+
+New Version Solo Miner with High Speed for mining Bitcoin With all System (Bitcoin Mining , BTC Miner)
+
 ---
 
 
