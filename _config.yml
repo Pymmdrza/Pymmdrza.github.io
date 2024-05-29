@@ -3,7 +3,7 @@ logo: https://avatars.githubusercontent.com/u/95309780?v=4
 description: Professional Programmers Team (Administrator) / Hack and Recovery Crypto & Blockchain.
 show_downloads: true
 google_analytics:
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme 
 # theme: jekyll-theme-midnight
