@@ -1,8 +1,8 @@
-theme: jekyll-theme-midnight
 title: Mmdrza Programming Python Script and Crypto Hacking
-fork: false
 logo: /assets/img/new.png
-description: Minimal is a theme for GitHub Pages.
+description: Professional Programmers Team (Administrator) / Hack and Recovery Crypto & Blockchain.
 show_downloads: true
 google_analytics:
+remote_theme: daviddarnes/alembic@main
+# theme: jekyll-theme-midnight
 
