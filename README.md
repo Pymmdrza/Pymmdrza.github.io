@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram)](https://t.me/Mr1Mmdrza)
+[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram)](https://t.me/Mr1Mmdrza) [![](https://img.shields.io/badge/Medium-Mdrza-5bb656?style=plastic&logo=Medium)](https://mdrza.medium.com/ 'medium page Mmdrza')
 
 ---
 
