@@ -1,35 +1,40 @@
-[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Crypto2ools) [![](https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram)](https://t.me/Mr1Mmdrza)
+<p align="center">
+  <a href="https://mmdrza.com"><img src="https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic" alt="Website"></a>
+  <a href="https://t.me/Crypto2ools"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram" alt="Telegram Channel"></a>
+  <a href="https://t.me/Mr1Mmdrza"><img src="https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram" alt="Telegram ID"></a>
+</p>
 
-![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
+<p align="center">
+<img alt="line" src="https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png" width="700"/>
+</p>
 
+[![fastcrypter](https://img.shields.io/badge/Python_Package-fastcrypter-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/fastcrypter 'fastcrypter')  [![fastcrypter](https://img.shields.io/badge/Doc-fastcrypter-5bb656?style=plastic&logo=readthedocs)](https://fastcrypter.readthedocs.io/en/latest/ 'fastcrypter Website')  [![fastcrypter](https://img.shields.io/badge/Pymmdrza-fastcrypter-blue?style=plastic&logo=github)](https://github.com/Pymmdrza/fastcrypter 'fastcrypter Source On Github Repository')
 
-[![libit](https://img.shields.io/badge/Python_Package-libit-5bb656?logo=Python&logoColor=bababa&link=https://pylibit.github.io/&style=plastic)](https://pylibit.github.io/ 'liBit') [![libit](https://img.shields.io/badge/pip%20install%20libit-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/libit) [![xTerm](https://img.shields.io/badge/pip3%20install%20libit-grey?style=plastic&logo=linux)](https://pylibit.github.io/ 'liBit')
+[![libcrypto](https://img.shields.io/badge/Python_Package-libcrypto-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/libcrypto 'libcrypto')  [![libcrypto](https://img.shields.io/badge/Doc-libcrypto-5bb656?style=plastic&logo=readthedocs)](https://libcrypto.readthedocs.io/en/latest/ 'libcrypto Website')  [![libcrypto](https://img.shields.io/badge/Pymmdrza-libcrypto-blue?style=plastic&logo=github)](https://github.com/Pymmdrza/libcrypto 'libcrypto Source On Github Repository')
 
-
-
-[![xTerm](https://img.shields.io/badge/Python_Package-xTerm-5bb656?logo=Python&logoColor=bababa&link=https://xterm.readthedocs.io/en/latest&style=plastic)](https://xterm.readthedocs.io/en/latest/ 'xterm') [![xTerm](https://img.shields.io/badge/pip%20install%20xterm-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/xterm) [![xTerm](https://img.shields.io/badge/pip3%20install%20xterm-grey?style=plastic&logo=linux)](https://xterm.readthedocs.io/en/latest/ 'xTerm')
-
-
-
-[![CryptoFuzz](https://img.shields.io/badge/Python_Package-cryptoFuzz-5bb656?logo=Python&logoColor=bababa&link=https://pymmdrza.github.io/cryptoFuzz&style=plastic)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz') [![CryptoFuzz](https://img.shields.io/badge/pip%20install%20cryptofuzz-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/cryptofuzz) [![CryptoFuzz](https://img.shields.io/badge/pip3%20install%20cryptofuzz-grey?style=plastic&logo=linux)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz')
-
-
-[![blockthon](https://img.shields.io/badge/Python_Package-blockthon-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://blockthon.github.io/Blockthon 'Blockthon Python Package') [![blockthon](https://img.shields.io/badge/pip%20install%20blockthon-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/blockthon) [![blockthon](https://img.shields.io/badge/pip3%20install%20blockthon-grey?style=plastic&logo=linux)](https://pypi.org/project/blockthon)
+[![libfake](https://img.shields.io/badge/Python_Package-libfake-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/libfake 'libfake')  [![libfake](https://img.shields.io/badge/Doc-libfake-5bb656?style=plastic&logo=readthedocs)](https://libfake.readthedocs.io/en/latest/ 'libfake Website')  [![libfake](https://img.shields.io/badge/Pymmdrza-libfake-blue?style=plastic&logo=github)](https://github.com/Pymmdrza/libfake 'libfake Source On Github Repository')
 
 
-[![libdb Python Package](https://img.shields.io/badge/Python_Package-libdb-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://libdb.readthedocs.io/en/latest/) [![libdb](https://img.shields.io/badge/pip%20install%20libdb-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/libdb/) [![libdb](https://img.shields.io/badge/pip3%20install%20libdb-4a4a4a?style=plastic&logo=linux&logoColor=yellow)](https://pypi.org/project/libdb/)
+[![libit Python Package](https://img.shields.io/badge/Python_Package-libit-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/libit) [![libit](https://img.shields.io/badge/Doc-libit-5bb656?style=plastic&logo=readthedocs)](https://libit.readthedocs.io/en/latest/ 'libit Website')  [![libit](https://img.shields.io/badge/pylibit-libit-blue?style=plastic&logo=github)](https://github.com/pylibit/libit 'libit Source On Github Repository')
 
 
-[![Secp256k2 Python Package](https://img.shields.io/badge/Python_Package-SECP256k2-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://secp256k2.readthedocs.io/en/latest/) [![secp256k2](https://img.shields.io/badge/pip%20install%20secp256k2-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/secp256k2/) [![secp256k2](https://img.shields.io/badge/pip3%20install%20secp256k2-4a4a4a?style=plastic&logo=linux&logoColor=yellow)](https://pypi.org/project/secp256k2/)
+
+[![xterm Python Package](https://img.shields.io/badge/Python_Package-xterm-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/xterm)  [![xterm](https://img.shields.io/badge/Doc-xterm-5bb656?style=plastic&logo=readthedocs)](https://xterm.readthedocs.io/en/latest/ 'xterm Website')  [![xterm](https://img.shields.io/badge/PyxTerm-xterm-blue?style=plastic&logo=github)](https://github.com/pyxterm/xterm 'xterm Source On Github Repository')
 
 
-[![colorthon](https://img.shields.io/badge/Python_Package-colorthon-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip%20install%20colorthon-4a4a4a?style=plastic&link=https://pypi.org/project/colorthon/&logo=pypi&logoColor=FF9E0F)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip3%20install%20colorthon-grey?style=plastic&logo=linux)](https://colorthon.github.io/colorthon)
 
-[![UserAgenter](https://img.shields.io/badge/Python_Package-userAgenter-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://useragenter.github.io/) [![UserAgenter](https://img.shields.io/badge/pip%20install%20useragenter-4a4a4a?style=plastic&link=https://pypi.org/project/useragenter/&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/useragenter) [![UserAgenter](https://img.shields.io/badge/pip3%20install%20useragenter-grey?style=plastic&logo=linux)](https://useragenter.github.io/)
+[![CryptoFuzz](https://img.shields.io/badge/Python_Package-cryptoFuzz-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/cryptofuzz 'CryptoFuzz')  [![cryptofuzz](https://img.shields.io/badge/Doc-cryptofuzz-5bb656?style=plastic&logo=readthedocs)](https://cryptofuzz.readthedocs.io/en/latest/ 'cryptofuzz Website')  [![cryptofuzz](https://img.shields.io/badge/Pymmdrza-cryptofuzz-blue?style=plastic&logo=github)](https://github.com/Pymmdrza/cryptofuzz 'cryptofuzz Source On Github Repository')
 
 
-![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
+[![libdb Python Package](https://img.shields.io/badge/Python_Package-libdb-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/libdb) [![libdb](https://img.shields.io/badge/Doc-libdb-5bb656?style=plastic&logo=readthedocs)](https://libdb.readthedocs.io/en/latest/ 'libdb Website')  [![libdb](https://img.shields.io/badge/libdb-libdb-blue?style=plastic&logo=github)](https://github.com/libdb/libdb 'libdb Source On Github Repository') 
 
+
+[![Real User Agent](https://img.shields.io/badge/Python_Package-Real%20UserAgent-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://pypi.org/project/real-useragent/) [![Real User Agent Doc](https://img.shields.io/badge/Doc-Real_UserAgent-5bb656?style=plastic&logo=readthedocs)](https://real-useragent.github.io 'Website')  [![Real User Agent](https://img.shields.io/badge/UserAgenter-real_useragent-blue?style=plastic&logo=github)](https://github.com/UserAgenter/real-useragent 'real-useragent Source On Github Repository') 
+
+
+<p align="center">
+<img alt="line" src="https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png" width="700"/>
+</p>
 
 All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
@@ -124,34 +129,30 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 `Private Key Finder Etherem From Rich Wallet List V2`
 
-![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
-
+<p align="center">
+<img alt="line" src="https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png" width="700"/>
+</p>
 <!-- Start Widget -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=95309780" target="_blank" style="display: block" align="center">
+<!-- Algora Widget Start -->
+<p align="center">
+<a title="Algora of @Pymmdrza" href="https://algora.io/og/user/Pymmdrza"><img alt="Algora of @Pymmdrza" src="https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/refs/heads/data/data/algora.png" width="700"/></a>
+
+<!-- Algora Widget End -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=95309780" target="_blank" style="display: block">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Dashboard stats of @Pymmdrza" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=light" width="815" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=dark" width="815">
+    <img alt="Dashboard stats of @Pymmdrza" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=light" width="815">
   </picture>
-
-
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=476343392" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=476343392&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of Pymmdrza/Rich-Address-Wallet - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=476343392&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
-
-
+</p>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 
 <!-- End Widget's -->
 
-![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
+<p align="center">
+<img alt="line" src="https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png" width="700"/>
+</p>
 
  [![](https://img.shields.io/keybase/btc/pymmdrza?style=plastic&color=orange&logo=bitcoin)]()
 
